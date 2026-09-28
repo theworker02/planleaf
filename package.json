@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/planleaf",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Plan and reshape leaf text streams with deterministic transforms.",
+  "bin": {
+    "planleaf": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/planleaf.git"
+  },
+  "homepage": "https://theworker02.github.io/planleaf/",
+  "keywords": [
+    "plan",
+    "leaf",
+    "text",
+    "cli",
+    "toolkit"
+  ]
+}
